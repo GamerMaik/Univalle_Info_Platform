@@ -8,11 +8,3 @@ El software se proporciona "tal cual", **sin garantía de ningún tipo**, expres
 
 Todos los derechos no otorgados expresamente en este documento están **reservados** al titular del copyright.
 
----
-
-<div align="center">
-
-Fecha: 2023 <br/>
-Nombre del Titular del Copyright: UNIVALLE
-
-</div>
