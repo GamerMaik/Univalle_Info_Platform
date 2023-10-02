@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2023 UNIVALLE
+
+Este software es propiedad de UNIVALLE y está protegido por las leyes de derechos de autor y otras leyes de propiedad intelectual. La **distribución** y la **copia** de este software, total o parcialmente, están **estrictamente prohibidas**, así como cualquier modificación, descompilación o ingeniería inversa del software.
+
+El software se proporciona "tal cual", **sin garantía de ningún tipo**, expresa o implícita, incluyendo pero no limitado a las garantías de **comerciabilidad**, **adecuación para un propósito particular** y **no infracción**. En ningún caso el titular del copyright o los autores del software serán responsables de cualquier **reclamación**, **daño** u otra **responsabilidad**, ya sea en una acción de **contrato**, **agravio** o de otro modo, derivada de, fuera o en relación con el software o el uso u otros tratos en el software.
+
+Todos los derechos no otorgados expresamente en este documento están **reservados** al titular del copyright.
+
+---
+
+<div align="center">
+
+Fecha: 2023 <br/>
+Nombre del Titular del Copyright: UNIVALLE
+
+</div>
